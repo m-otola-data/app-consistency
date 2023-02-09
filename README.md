@@ -1,9 +1,10 @@
-Determining User Interaction with Apps in Google Play and Apple Store Markets
-Project was created with Dataquest.io, along with .csv files.
+## **Determining User Interaction with Apps in Google Play and Apple Store Markets**
 
-The purpose of this project is to help developers understand which apps are more likely to attract users by analyzing the given data.
+ *Project was created with Dataquest.io, along with .csv files.*
 
-Our criteria for said success can be determined as follows:
+###### The purpose of this project is to help developers understand which apps are more likely to attract users by analyzing the given data.
+
+**Our criteria for said success can be determined as follows:**
 
 1. Create a minimal Android version of application and add it to Google Play.
 2. App will be developed further IF it gets a good response from users.
