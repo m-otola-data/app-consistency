@@ -6,8 +6,14 @@
 
 # App Consistency / DataQuest Project
 
-The purpose of this project is to help developers understand what type of apps are likely to attract more users on Google Play and the App Store. 
-In doing so, this can provide insight for developers wanting to create an app and generate revenue.
+# The purpose of this project is to help developers understand what type of apps are likely to attract more users on Google Play and the App Store. 
+# In doing so, this can provide insight for developers wanting to create an app and generate revenue. 
+
+# A developer could follow this strategy to help ensure App success:
+# 1. Create a minimal Android version of application and add it to Google Play.
+# 2. App will be developed further IF it gets a good response from users
+# 3. If app continues to be profitable after 6 months, an iOS version will be built and added to the App store.
+# This will help further ensure that the app is received well in both markets and generate more revenue.
 
 
 # In[1]:
@@ -197,11 +203,6 @@ explore_data(ios_english, 0, 3, True)
 
 # Getting the most common apps by their genre
 # Determining the kind of apps that attract more users will affect revenue.
-# The validation strategy will be as follows: 
-# 1. Create a minimal Android version of application and add it to Google Play.
-# 2. App will be developed further IF it gets a good response from users
-# 3. If app continues to be profitable after 6 months, an iOS version will be built and added to the App store.
-# This will help further ensure that the app is received well in both markets and generate more revenue.
 
 android_final = []
 ios_final = []
