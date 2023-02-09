@@ -4,9 +4,10 @@
 # In[ ]:
 
 
-# App Consistency
+# App Consistency / DataQuest Project
 
-The purpose of this project is to help developers understand what type of apps are likely to attract more users on Google Play and the App Store. In doing so, this can provide insight for developers wanting to create an app and generate revenue.
+The purpose of this project is to help developers understand what type of apps are likely to attract more users on Google Play and the App Store. 
+In doing so, this can provide insight for developers wanting to create an app and generate revenue.
 
 
 # In[1]:
